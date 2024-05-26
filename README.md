@@ -8,7 +8,7 @@
 3. Настройте сборочную процедуру на **TravisCI**.
 4. Настройте [Coveralls.io](https://coveralls.io/).
 
-[![Coverage Status](https://coveralls.io/repos/github/Zarrokk/lab05/badge.svg?branch=master)](https://coveralls.io/github/Zarrokk/lab05?branch=master)
+
 ### Создаем
 ```
 $ mkdir third-party
