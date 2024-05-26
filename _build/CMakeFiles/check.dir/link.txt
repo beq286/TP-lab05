@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/check.dir/tests/test_Account.cpp.o CMakeFiles/check.dir/tests/test_Transaction.cpp.o -o check  libbanking.a lib/libgtest_main.a -lgcov lib/libgtest.a 
